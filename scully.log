@@ -411,3 +411,7 @@ No configuration for route "/tag/:tagName" found. Skipping
 No configuration for route "/tag/:tagName" found. Skipping
 No configuration for route "/tag/:tagName" found. Skipping
 The file ./blog/auto-mapper-chapter-1.md is empty, scully will ignore.
+****************************************************************************************
+This is a development tool for Scully applications.
+You can ignore the warning (TLS) or run scully with --no-warning
+****************************************************************************************

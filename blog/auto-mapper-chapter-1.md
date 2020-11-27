@@ -1,10 +1,10 @@
 ---
 title: AutoMapper - Part 1
-description: Trong bài này, mình sẽ hưỡng dẫn các bạn các sử dụng cơ bản của thư viên AutoMapper.
+description: Trong bài này, mình sẽ chia sẻ các bạn các sử dụng cơ bản của thư viên AutoMapper.
 date: '2020-11-27'
 published: true
 slug: 'auto-mapper-chapter-1'
-tags: ['TypeScript']
+tags: ['TypeScript', 'AutoMapper']
 ---
 
 ## AutoMapper
