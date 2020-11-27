@@ -14,7 +14,7 @@ export class UtterancesDirective implements AfterViewInit {
         const scriptEl: HTMLScriptElement = this.renderer.createElement('script');
         scriptEl.async = true;
         scriptEl.src = 'https://utteranc.es/client.js';
-        scriptEl.setAttribute('repo', 'nartc/tnc-scully-comments');
+        scriptEl.setAttribute('repo', 'cesc1802/tnc-scully-comments');
         scriptEl.setAttribute('issue-term', 'pathname');
         scriptEl.setAttribute('id', 'utterances');
         scriptEl.setAttribute('theme', 'preferred-color-scheme');

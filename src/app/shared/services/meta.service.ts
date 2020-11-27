@@ -9,7 +9,7 @@ import { Frontmatter } from '../frontmatter';
 })
 export class MetaService {
   private _defaultImage =
-    'https://avatars1.githubusercontent.com/u/25516557?s=460&u=b15a0b6c89d6d8d0b7225a6eab30c060f70d3d9f&v=4';
+    'https://avatars3.githubusercontent.com/u/16495198?s=400&amp;u=7809a51124f7265ce39ff9e733078c3ab6208c0f&amp;v=4';
 
   constructor(
     private readonly meta: Meta,
@@ -90,7 +90,7 @@ export class MetaService {
     this.meta.removeTag("name='twitter:description'");
     this.meta.removeTag("name='keywords'");
 
-    this.meta.updateTag({ name: 'description', content: 'Personal blog by Chau Tran' });
+    this.meta.updateTag({ name: 'description', content: 'Personal blog by Thuoc Nguyen' });
     this.meta.updateTag({
       name: 'twitter:image',
       content: this._defaultImage,
@@ -110,12 +110,12 @@ export class MetaService {
       property: 'og:image',
       content: this._defaultImage,
     });
-    this.title.setTitle('Chau Tran');
+    this.title.setTitle('Thuoc Nguyen');
     this.updateCanonical();
   }
 
   private static getTitle(title: string) {
-    return `${title} | Chau Tran`;
+    return `${title} | Thuoc Nguyen`;
   }
 
   private updateCanonical(url: string = environment.baseUrl) {
