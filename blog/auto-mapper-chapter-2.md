@@ -1,5 +1,5 @@
 ---
-title: AutoMapper - Part 1
+title: AutoMapper - Part 2
 description: Trong bài này, mình sẽ chia sẻ về một vài use-case mà mình thấy AutoMapper rất hữu ích
 date: '2020-11-27'
 published: true
