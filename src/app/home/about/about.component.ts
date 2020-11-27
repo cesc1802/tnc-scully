@@ -5,24 +5,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   template: `
     <p class="font-thin text-lg mb-2">Hello world,</p>
     <p class="font-thin text-lg mb-2">
-      As you probably already notice, I am Chau. I am currently working as an engineer for
-      <a
-        href="https://swimlane.com/"
-        rel="noreferrer"
-        target="_blank"
-        class="text-primary underline cursor-pointer"
-      >
-        Swimlane
-      </a>
-      . Follow us at
-      <a
-        href="https://twitter.com/swimlane"
-        rel="noreferrer"
-        target="_blank"
-        class="text-primary underline cursor-pointer"
-      >
-        @swimlane
-      </a>
+      Như các bạn đã biết, tôi là Thược. Hiện tại tối đang làm lập trình viên Backend
     </p>
     <p class="font-thin text-lg mb-2">
       Đây là nơi tôi dùng để chia sẻ về những hiểu biết của mình về lập trình. 
