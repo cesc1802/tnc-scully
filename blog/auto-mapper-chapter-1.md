@@ -1,3 +1,12 @@
+---
+title: AutoMapper - Part 1
+description: Trong bài này, mình sẽ hưỡng dẫn các bạn các sử dụng cơ bản của thư viên AutoMapper.
+date: '2020-11-27'
+published: true
+slug: 'auto-mapper-chapter-1'
+tags: ['TypeScript']
+---
+
 ## AutoMapper
 
 - Chào các bạn, sau một thời gian sử dụng thư viện [AutoMapper](https://github.com/nartc/mapper) của tác giả **Chau Tran**. Mình xin phép chia sẻ use-case mà mình áp dụng trong dự án làm backend của mình. Trong các dự án của mình có sử dụng typeorm library để làm orm giúp mình thực hiện persistent dư liệu xuống database, vì thế mình cần tạo ra khá nhiều entity (mỗi entity sẽ đại diện cho một table dưới database). Bây giờ các bạn hãy cùng xem mình dùng AutoMapper như thế nào nhé.

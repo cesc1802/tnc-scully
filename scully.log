@@ -410,3 +410,4 @@ No configuration for route "/tag/:tagName" found. Skipping
 No configuration for route "/tag/:tagName" found. Skipping
 No configuration for route "/tag/:tagName" found. Skipping
 No configuration for route "/tag/:tagName" found. Skipping
+The file ./blog/auto-mapper-chapter-1.md is empty, scully will ignore.
