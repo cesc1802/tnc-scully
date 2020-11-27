@@ -25,19 +25,9 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
       </a>
     </p>
     <p class="font-thin text-lg mb-2">
-      This is the place that I use to share my knowledge about programming and personal stuffs with
-      the world. With that said, the blog will focus on Web Technologies like Angular, React,
-      TypeScript, NestJS etc. on the tech side of things and will probably be about any random
-      things about my daily life activities. My personal blog was powered by
-      <a
-        href="https://gatsbyjs.org"
-        rel="noreferrer"
-        target="_blank"
-        class="text-primary underline cursor-pointer"
-      >
-        GatsbyJS
-      </a>
-      but now is written with
+      Đây là nơi tôi dùng để chia sẻ về những hiểu biết của mình về lập trình. 
+      Blog sẽ tập chung nói về phát triển Backend sử dung Golang là chính hoặc có thể là một vài hoạt động hằng ngày của tôi. 
+      Blog cá nhân của tôi được cung cấp bởi
       <a
         href="https://angular.io"
         rel="noreferrer"
@@ -57,10 +47,10 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
       </a>
     </p>
     <p class="font-thin text-lg mb-2">
-      I hope you will gain something (some knowledge, some argument worth argue for, or maybe a
-      smile) here on this blog. If you have any question, or absolutely anything at all, please do
-      not hesitate to reach out to me on any of the social medium listed in the info box. See y'all
-      around 👋
+      Tôi hi vọng, bạn sẽ tích luỹ được kiến thức gì đó (kiến thức, một vài luân điểm, hoặc có thể sự vui vẻ trong cuộc sống hằng này) ở trên blog. 
+      Nếu bạn có bất cứ câu hỏi nào hoặc bất cứ điều gì bạn muốn làm. 
+      Đừng ngần ngại, hay liên hệ với tôi bất cứ phương tiện xã hội nào. 
+      Cảm ơn! 👋
     </p>
   `,
   changeDetection: ChangeDetectionStrategy.OnPush,

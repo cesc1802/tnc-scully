@@ -23,7 +23,7 @@ import { Destroyable } from '../../../shared/destroyable';
         [attr.data-tooltip]="'New version available 🚀'"
       >
         <img
-          src="https://avatars1.githubusercontent.com/u/25516557?s=460&u=b15a0b6c89d6d8d0b7225a6eab30c060f70d3d9f&v=4"
+          src="https://avatars3.githubusercontent.com/u/16495198?s=400&amp;u=7809a51124f7265ce39ff9e733078c3ab6208c0f&amp;v=4"
           alt="avatar"
           class="object-cover object-center rounded-full w-full h-full visible group-hover:hidden"
         />
