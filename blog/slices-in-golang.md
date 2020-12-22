@@ -1,7 +1,7 @@
 ---
 title: Slices in Golang
 description: Let's go. Trong seri này mình sẽ giới thiệu về ba cấu trúc dữ liệu (Arrays, Slices, Maps) thường hay được sử dụng trong Golang. Chúng ta sẽ cùng tìm hiểu về Slices trước nhé.
-date: '2020-12-15'
+date: '2020-12-20'
 published: true
 slug: 'slices'
 tags: ['Golang', 'Slices']
