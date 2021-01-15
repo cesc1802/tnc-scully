@@ -1,5 +1,5 @@
 ---
-title: RESTful API Design: Best Practices
+title: RESTful API Design Best Practices
 description: 10 tiêu chí giúp bạn nâng cao kỹ năng khi làm việc với RESTful API
 date: '2021-01-15'
 published: true
