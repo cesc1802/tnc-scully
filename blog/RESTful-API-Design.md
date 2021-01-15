@@ -75,6 +75,4 @@ Trên đây mình đã chắt lọc và viết ra những nguyên tắc theo mì
 
 Link các bài viết tham khảo: [] (https://dev.to/pragativerma18/restful-api-design-best-practices-4mi8), [] (https://restfulapi.net/resource-naming/)
 
-Link bài viết gốc mình để trên Blog của mình nhé :
-
 
