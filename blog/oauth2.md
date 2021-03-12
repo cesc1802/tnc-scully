@@ -1,5 +1,5 @@
 ---
-title: OAuth2: Những điều chúng ta không nên bỏ qua.
+title: OAuth2 Những điều chúng ta không nên bỏ qua
 description: OAuth2 là phiên bản 2 của giao thức OAuth. Giao thức này cho phép các ứng dụng của bên thứ ba cấp quyền truy cập giới hạn vào một dịch vụ HTTP thay mặt chủ sở hữu tài nguyên hoặc cho phép ứng dụng của bên thứ ba có quyền truy cập thay mặt cho chính nó. Quyền truy cập được yêu cầu bởi một khách, có thể là một trang web hoặc ứng dụng di động.
 date: '2021-03-12'
 published: true
