@@ -3,7 +3,7 @@ title: Sử dụng sql.DB đúng cách để nâng cao hiệu năng cho ứng d�
 description: Sử dụng sql.DB đúng cách để nâng cao hiệu năng cho ứng dụng
 date: '2021-06-17'
 published: true
-slug: 'sql'
+slug: 'use-sql-db-right-way'
 tags: ['Golang', 'Database']
 ---
 Gần 2 tháng trời ăn nằm với Golang, cũng nếm đủ vị chua-cay-ngọt-bùi. Cứ nghĩ đến viễn cảnh ứng dụng của mình mà được lên production thì sẽ nở mày nở mặt với đồng nghiệp. Nhưng đời không như mơ, khi ứng dụng đang chạy ở môi trường UAT, khi tôi còn đang chìm đắm trong giấc ngủ sau thời gian dài cố gắng hoàn thành deadline thì đ' hiểu sao nhận được cái thông báo lỗi **TOO MANY CONNECTION** và database đã ra đi chân lạnh toát =)). Nhưng cũng từ đây, bản thân lại có thêm sự tò mò, sự tìm hiểu để tối ưu hoá cho ứng dụng của mình trở nên mượt mà hơn. Hôm nay, mình sẽ chia sẻ lại những gì mà mình đã tìm hiểu được để nâng cao hiệu năng ứng dụng của mình khi tương tác với database nhé.
